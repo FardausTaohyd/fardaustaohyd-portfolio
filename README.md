@@ -19,7 +19,7 @@ My goal is to build products that are not just visually appealing but also solve
 If you're working on something exciting, let's connect!  
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/fardaus-taohyd-582736370/)  
 - Email: [fardaustaohyd31@gmail.com]  
-- Website: [taohyd.com](https://taohyd.com)
+- Website: [Portfolio](https://fardaustaohyd.github.io/fardaustaohyd-portfolio/)
 
 ---
 
